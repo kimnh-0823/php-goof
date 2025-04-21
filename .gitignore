@@ -3,3 +3,7 @@
 composer.phar
 /vendor/
 .gitignore
+
+# Joern Scan
+.hestia
+workspace
